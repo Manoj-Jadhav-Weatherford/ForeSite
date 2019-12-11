@@ -1,0 +1,5 @@
+C:\Users\e222901\Documents\Manoj\Code\WFT.ForSite.Utility\WFT.ForeSite.Utility\WFT.ForeSite.Utility.Comman\bin\Debug\WFT.ForSite.Utility.Comman.dll
+C:\Users\e222901\Documents\Manoj\Code\WFT.ForSite.Utility\WFT.ForeSite.Utility\WFT.ForeSite.Utility.Comman\bin\Debug\WFT.ForSite.Utility.Comman.pdb
+C:\Users\e222901\Documents\Manoj\Code\WFT.ForSite.Utility\WFT.ForeSite.Utility\WFT.ForeSite.Utility.Comman\obj\Debug\WFT.ForeSite.Utility.Comman.csproj.CoreCompileInputs.cache
+C:\Users\e222901\Documents\Manoj\Code\WFT.ForSite.Utility\WFT.ForeSite.Utility\WFT.ForeSite.Utility.Comman\obj\Debug\WFT.ForSite.Utility.Comman.dll
+C:\Users\e222901\Documents\Manoj\Code\WFT.ForSite.Utility\WFT.ForeSite.Utility\WFT.ForeSite.Utility.Comman\obj\Debug\WFT.ForSite.Utility.Comman.pdb

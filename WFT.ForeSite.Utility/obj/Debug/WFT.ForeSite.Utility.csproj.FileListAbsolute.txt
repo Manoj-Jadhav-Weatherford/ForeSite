@@ -1,0 +1,14 @@
+C:\Users\e222901\Documents\Manoj\Code\WFT.ForSite.Utility\WFT.ForeSite.Utility\WFT.ForeSite.Utility\bin\Debug\WFT.ForSite.Utility.exe.config
+C:\Users\e222901\Documents\Manoj\Code\WFT.ForSite.Utility\WFT.ForeSite.Utility\WFT.ForeSite.Utility\bin\Debug\WFT.ForSite.Utility.exe
+C:\Users\e222901\Documents\Manoj\Code\WFT.ForSite.Utility\WFT.ForeSite.Utility\WFT.ForeSite.Utility\bin\Debug\WFT.ForSite.Utility.pdb
+C:\Users\e222901\Documents\Manoj\Code\WFT.ForSite.Utility\WFT.ForeSite.Utility\WFT.ForeSite.Utility\obj\Debug\WFT.ForeSite.Utility.csproj.CoreCompileInputs.cache
+C:\Users\e222901\Documents\Manoj\Code\WFT.ForSite.Utility\WFT.ForeSite.Utility\WFT.ForeSite.Utility\obj\Debug\WFT.ForSite.Utility.exe
+C:\Users\e222901\Documents\Manoj\Code\WFT.ForSite.Utility\WFT.ForeSite.Utility\WFT.ForeSite.Utility\obj\Debug\WFT.ForSite.Utility.pdb
+C:\Users\e222901\Documents\Manoj\Code\WFT.ForSite.Utility\WFT.ForeSite.Utility\WFT.ForeSite.Utility\bin\Debug\WFT.ForSite.Framework.dll
+C:\Users\e222901\Documents\Manoj\Code\WFT.ForSite.Utility\WFT.ForeSite.Utility\WFT.ForeSite.Utility\bin\Debug\WFT.ForSite.Utility.BusinessManager.dll
+C:\Users\e222901\Documents\Manoj\Code\WFT.ForSite.Utility\WFT.ForeSite.Utility\WFT.ForeSite.Utility\bin\Debug\WFT.ForSite.Utility.Comman.dll
+C:\Users\e222901\Documents\Manoj\Code\WFT.ForSite.Utility\WFT.ForeSite.Utility\WFT.ForeSite.Utility\bin\Debug\WFT.ForSite.Framework.pdb
+C:\Users\e222901\Documents\Manoj\Code\WFT.ForSite.Utility\WFT.ForeSite.Utility\WFT.ForeSite.Utility\bin\Debug\WFT.ForSite.Utility.BusinessManager.pdb
+C:\Users\e222901\Documents\Manoj\Code\WFT.ForSite.Utility\WFT.ForeSite.Utility\WFT.ForeSite.Utility\bin\Debug\WFT.ForSite.Utility.Comman.pdb
+C:\Users\e222901\Documents\Manoj\Code\WFT.ForSite.Utility\WFT.ForeSite.Utility\WFT.ForeSite.Utility\obj\Debug\WFT.ForeSite.Utility.csprojAssemblyReference.cache
+C:\Users\e222901\Documents\Manoj\Code\WFT.ForSite.Utility\WFT.ForeSite.Utility\WFT.ForeSite.Utility\obj\Debug\WFT.ForeSite.Utility.csproj.CopyComplete

@@ -1,0 +1,13 @@
+C:\Users\e222901\Documents\Manoj\Code\WFT.ForSite.Utility\WFT.ForeSite.Utility\WFT.ForeSite.Utility.BusinessManager\bin\Debug\WFT.ForSite.Utility.BusinessManager.dll
+C:\Users\e222901\Documents\Manoj\Code\WFT.ForSite.Utility\WFT.ForeSite.Utility\WFT.ForeSite.Utility.BusinessManager\bin\Debug\WFT.ForSite.Utility.BusinessManager.pdb
+C:\Users\e222901\Documents\Manoj\Code\WFT.ForSite.Utility\WFT.ForeSite.Utility\WFT.ForeSite.Utility.BusinessManager\obj\Debug\WFT.ForeSite.Utility.BusinessManager.csproj.CoreCompileInputs.cache
+C:\Users\e222901\Documents\Manoj\Code\WFT.ForSite.Utility\WFT.ForeSite.Utility\WFT.ForeSite.Utility.BusinessManager\obj\Debug\WFT.ForSite.Utility.BusinessManager.dll
+C:\Users\e222901\Documents\Manoj\Code\WFT.ForSite.Utility\WFT.ForeSite.Utility\WFT.ForeSite.Utility.BusinessManager\obj\Debug\WFT.ForSite.Utility.BusinessManager.pdb
+C:\Users\e222901\Documents\Manoj\Code\WFT.ForSite.Utility\WFT.ForeSite.Utility\WFT.ForeSite.Utility.BusinessManager\bin\Debug\WFT.ForSite.Utility.Comman.dll
+C:\Users\e222901\Documents\Manoj\Code\WFT.ForSite.Utility\WFT.ForeSite.Utility\WFT.ForeSite.Utility.BusinessManager\bin\Debug\WFT.ForSite.Utility.Comman.pdb
+C:\Users\e222901\Documents\Manoj\Code\WFT.ForSite.Utility\WFT.ForeSite.Utility\WFT.ForeSite.Utility.BusinessManager\obj\Debug\WFT.ForeSite.Utility.BusinessManager.csprojAssemblyReference.cache
+C:\Users\e222901\Documents\Manoj\Code\WFT.ForSite.Utility\WFT.ForeSite.Utility\WFT.ForeSite.Utility.BusinessManager\obj\Debug\WFT.ForeSite.Utility.BusinessManager.csproj.CopyComplete
+C:\Users\e222901\Documents\Manoj\Code\WFT.ForSite.Utility\WFT.ForeSite.Utility\WFT.ForeSite.Utility.BusinessManager\bin\Debug\WFT.ForSite.Framework.dll
+C:\Users\e222901\Documents\Manoj\Code\WFT.ForSite.Utility\WFT.ForeSite.Utility\WFT.ForeSite.Utility.BusinessManager\bin\Debug\WFT.ForSite.Utility.DataAccessManager.dll
+C:\Users\e222901\Documents\Manoj\Code\WFT.ForSite.Utility\WFT.ForeSite.Utility\WFT.ForeSite.Utility.BusinessManager\bin\Debug\WFT.ForSite.Framework.pdb
+C:\Users\e222901\Documents\Manoj\Code\WFT.ForSite.Utility\WFT.ForeSite.Utility\WFT.ForeSite.Utility.BusinessManager\bin\Debug\WFT.ForSite.Utility.DataAccessManager.pdb

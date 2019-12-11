@@ -1,0 +1,6 @@
+C:\Users\e222901\Documents\Manoj\Code\WFT.ForSite.Utility\WFT.ForSite.Utility\WFT.ForSite.Utility.BusinessManager\bin\Debug\WFT.ForSite.Utility.BusinessManager.dll
+C:\Users\e222901\Documents\Manoj\Code\WFT.ForSite.Utility\WFT.ForSite.Utility\WFT.ForSite.Utility.BusinessManager\bin\Debug\WFT.ForSite.Utility.BusinessManager.pdb
+C:\Users\e222901\Documents\Manoj\Code\WFT.ForSite.Utility\WFT.ForSite.Utility\WFT.ForSite.Utility.BusinessManager\obj\Debug\WFT.ForSite.Utility.BusinessManager.csprojAssemblyReference.cache
+C:\Users\e222901\Documents\Manoj\Code\WFT.ForSite.Utility\WFT.ForSite.Utility\WFT.ForSite.Utility.BusinessManager\obj\Debug\WFT.ForSite.Utility.BusinessManager.csproj.CoreCompileInputs.cache
+C:\Users\e222901\Documents\Manoj\Code\WFT.ForSite.Utility\WFT.ForSite.Utility\WFT.ForSite.Utility.BusinessManager\obj\Debug\WFT.ForSite.Utility.BusinessManager.dll
+C:\Users\e222901\Documents\Manoj\Code\WFT.ForSite.Utility\WFT.ForSite.Utility\WFT.ForSite.Utility.BusinessManager\obj\Debug\WFT.ForSite.Utility.BusinessManager.pdb

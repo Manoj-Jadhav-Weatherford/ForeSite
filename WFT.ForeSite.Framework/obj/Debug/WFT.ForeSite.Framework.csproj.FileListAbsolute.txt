@@ -1,0 +1,7 @@
+C:\Users\e222901\Documents\Manoj\Code\WFT.ForSite.Utility\WFT.ForeSite.Utility\WFT.ForeSite.Framework\bin\Debug\WFT.ForSite.Framework.dll
+C:\Users\e222901\Documents\Manoj\Code\WFT.ForSite.Utility\WFT.ForeSite.Utility\WFT.ForeSite.Framework\bin\Debug\WFT.ForSite.Framework.pdb
+C:\Users\e222901\Documents\Manoj\Code\WFT.ForSite.Utility\WFT.ForeSite.Utility\WFT.ForeSite.Framework\obj\Debug\WFT.ForeSite.Framework.csproj.CoreCompileInputs.cache
+C:\Users\e222901\Documents\Manoj\Code\WFT.ForSite.Utility\WFT.ForeSite.Utility\WFT.ForeSite.Framework\obj\Debug\WFT.ForSite.Framework.dll
+C:\Users\e222901\Documents\Manoj\Code\WFT.ForSite.Utility\WFT.ForeSite.Utility\WFT.ForeSite.Framework\obj\Debug\WFT.ForSite.Framework.pdb
+C:\Users\e222901\Documents\Manoj\Code\WFT.ForSite.Utility\WFT.ForeSite.Utility\WFT.ForeSite.Framework\obj\Debug\WFT.ForSite.Framework.LocalizationString.resources
+C:\Users\e222901\Documents\Manoj\Code\WFT.ForSite.Utility\WFT.ForeSite.Utility\WFT.ForeSite.Framework\obj\Debug\WFT.ForeSite.Framework.csproj.GenerateResource.cache
